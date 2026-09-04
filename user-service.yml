@@ -1,2 +1,6 @@
+server:
+  port: 9001
+
+
 app:
   message: Hello from Git Config Server - userService
