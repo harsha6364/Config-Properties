@@ -1,0 +1,5 @@
+app:
+  message: Production configuration
+
+server:
+  port: 9002
