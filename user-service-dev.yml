@@ -2,4 +2,4 @@ app:
   message: New development configuration message
 
 server:
-  port: 9002
+  port: 9001
